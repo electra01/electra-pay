@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "kapitalize": "^0.3.3",
+    "mocha": "^4.1.0"
+  }
+}
