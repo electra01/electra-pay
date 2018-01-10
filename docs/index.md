@@ -14,6 +14,4 @@ We're working hard to enable merchants to accept lightning fast payments with lo
 
 If you're a member of the Electra community and love Electra as much as we do, help us get there faster by donating ECA to the project:
 
-Donation address: EawugjKzYqWMdRS78Ct66K6BZ77Vi2PARP
-
-Watch this Space!
+Project Wallet - EawugjKzYqWMdRS78Ct66K6BZ77Vi2PARP
