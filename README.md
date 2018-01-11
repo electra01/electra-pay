@@ -10,4 +10,4 @@ The aim of this project is to facilitate direct ECA payments for stores on popul
 
 # Help us get there faster!
 
-We're working hard to enable merchants to accept lightning fast payments with low fees using electra. And we're this hoping project will be a great addition to the electra ecosystem. If you want to contribute, get in touch with us at Electraproject.org to offer your coding skills or donate!
+We're working hard to enable merchants to accept lightning fast payments with low fees using electra. And we're hoping this project will be a great addition to the electra ecosystem. If you want to contribute, get in touch with us at Electraproject.org to offer your skills/services or to donate!
